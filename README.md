@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bremrg0775
 - 👀 I’m interested in helping others, working to destigmatize mental health & substance abuse.
-- 🌱 I’m currently learning how to work WordPress and it's driving me mad.
-- 💞️ I’m looking for ways to market my Coaching business as well as my Outpatient Mental Health Center.
+- 🌱 I’m currently learning how to work WordPress, and creating AI chatboxes and it's driving me mad.
+- 💞️ I’m looking for ways to market my Consultancy and Coaching services.
 - 📫 How to reach me blee@awinningstrategy.org
 
 <!---
